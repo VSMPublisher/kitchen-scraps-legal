@@ -65,5 +65,5 @@ We use administrative, technical, and physical security measures (provided large
 If you have questions about this Privacy Policy, please contact us:
 
 *   **Name:** Virender Singh
-*   **Email:** singh@gmail.com
+*   **Email:** kitchenscrapsquiz@gmail.com
 *   **Address:** Delhi, India
