@@ -1,6 +1,6 @@
 # Privacy Policy 
 
-**Last Updated:** 25 November, 2025
+**Last Updated:** 10 March, 2026
 
 ## 1. Introduction
 Virender Singh ("we," "our," or "us") operates the **Kitchen Scraps & Food Waste Quiz App** (the "App"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our App on Android, Windows Desktop, or the Web.
