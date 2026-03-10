@@ -1,6 +1,6 @@
 # Terms Of Service 
 
-**Last Updated:** 25 November, 2025
+**Last Updated:** 10 March, 2026
 
 ## 1. Agreement to Terms
 These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you") and Virender Singh ("we," "us," or "our"), concerning your access to and use of the **Kitchen Scraps & Food Waste Quiz App** (the "App"). By accessing the App, you have read, understood, and agreed to be bound by all of these Terms of Service.
