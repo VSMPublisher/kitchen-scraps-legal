@@ -41,11 +41,11 @@ In no event will we or our directors, employees, or agents be liable to you or a
 These Terms shall be governed by and defined following the laws of **India**. Virender Singh and yourself irrevocably consent that the courts of **Delhi, India** shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
 
 ## 10. Dispute Resolution
-You agree that any dispute related to these Terms or the App will first be attempted to be resolved informally by contacting us at **singh@gmail.com**.
+You agree that any dispute related to these Terms or the App will first be attempted to be resolved informally by contacting us at **kitchenscrapsquiz@gmail.com**.
 
 ## 11. Contact Us
 In order to resolve a complaint regarding the App or to receive further information regarding use of the App, please contact us at:
 
 *   **Name:** Virender Singh
-*   **Email:** singh@gmail.com
+*   **Email:** kitchenscrapsquiz@gmail.com
 *   **Address:** Delhi, India
