@@ -1,10 +1,9 @@
 # Privacy Policy
 
-[TOC]
-
----
 **Effective Date:** September 6, 2026  
 **Last Updated:** September 6, 2026
+
+[TOC]
 
 ## 1. Introduction
 
