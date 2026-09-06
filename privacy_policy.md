@@ -3,7 +3,20 @@
 **Effective Date:** September 6, 2026  
 **Last Updated:** September 6, 2026
 
-[TOC]
+## Table of Contents
+- [1. Introduction](#1-introduction)
+- [2. Information We Collect](#2-information-we-collect)
+- [3. How We Use Information](#3-how-we-use-information)
+- [4. Third-Party Services](#4-third-party-services)
+- [5. Creator Suite & User-Generated Content](#5-creator-suite--user-generated-content)
+- [6. User-Generated Content & Sharing](#6-user-generated-content--sharing)
+- [7. Advertising & Rewards](#7-advertising--rewards)
+- [8. Children's Privacy](#8-childrens-privacy)
+- [9. Data Protection Rights](#9-data-protection-rights)
+- [10. Data Security](#10-data-security)
+- [11. Data Retention](#11-data-retention)
+- [12. Changes to This Privacy Policy](#12-changes-to-this-privacy-policy)
+- [13. Contact Us](#13-contact-us)
 
 ## 1. Introduction
 
