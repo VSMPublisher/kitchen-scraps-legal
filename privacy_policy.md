@@ -1,69 +1,190 @@
-# Privacy Policy 
+# Privacy Policy
 
-**Last Updated:** 10 March, 2026
+[TOC]
+
+---
+**Effective Date:** September 6, 2026  
+**Last Updated:** September 6, 2026
 
 ## 1. Introduction
-Virender Singh ("we," "our," or "us") operates the **Kitchen Scraps & Food Waste Quiz App** (the "App"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our App on Android, Windows Desktop, or the Web.
+
+Virender Singh ("we," "our," or "us") operates the **Kitchen Scraps & Food Waste Quiz App** (the "App"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App on Android, Windows Desktop, or the Web.
+
+Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
 ## 2. Information We Collect
 
-### A. Personal Data
-We do not require you to create an account to use the App. However, we may collect personally identifiable information (PII) that you voluntarily provide to us when you:
-*   Submit feedback or suggestions through the App's feedback form.
-*   Contact us via email for support.
+### A. Information We Do NOT Collect
 
-### B. Derivative Data and Automatically Collected Information
-When you access the App, our servers and third-party service providers (such as Google AdMob and Firebase) may automatically collect information, including:
-*   **Device Information:** Device ID, model, manufacturer, and operating system version.
-*   **Usage Data:** Quiz scores, dwell time, button clicks, and interaction with the App.
-*   **Advertising IDs:** Google Advertising ID (AAID) on Android or similar identifiers.
-*   **Location Data:** General location data based on IP address (used primarily for serving relevant ads).
+We believe in strict data minimality. We do **not** collect, store, or transmit:
 
-### C. Virtual Currency (Credits)
-We track your acquisition and usage of in-app "Credits." This data is stored locally on your device (in early versions) and may be synchronized to cloud servers (Google Firestore) in later versions to preserve your progress.
+- Your real name, phone number, or physical address
+- Email addresses (except when you voluntarily submit feedback or contact us)
+- Photographs, contacts, or other media from your device
+- Precise geolocation data
 
-## 3. Use of Your Information
+### B. Automatically Collected Information
+
+When you use the App, certain information may be automatically collected:
+
+- **Device Information:** Device model, operating system version, and unique device identifiers (used for analytics and ad delivery).
+- **Usage Data:** Quiz scores, streak progress, hints used, time spent per question, and general interaction patterns. This data is anonymous and used to improve quiz difficulty and content quality.
+- **Advertising Identifiers:** Google Advertising ID (AAID) on Android devices, used for ad personalization.
+
+### C. Data Stored Locally on Your Device
+
+The following data is stored entirely on your device using local storage (SharedPreferences) and is **never transmitted to our servers** unless you explicitly enable cloud sync:
+
+- Quiz progress, high scores, and category statistics
+- Virtual credits balance and streak history
+- Bookmarked questions and personal notes
+- Custom quiz questions you create
+- Saved compost audit reports
+- Theme preferences (dark mode, Amber Gold skin)
+- Sound, haptic, and language settings
+- Daily challenge streaks
+- Onboarding completion status
+
+### D. Cloud-Synced Data (Optional)
+
+If cloud sync is active, the following data may be stored in **Google Firestore** under a anonymized device identifier:
+
+- Quiz progress and high scores
+- Virtual credits balance
+- Category performance statistics
+
+This data is linked only to a randomly generated device UUID—not to your personal identity. You can disconnect cloud sync or reset all progress at any time from the Settings screen.
+
+## 3. How We Use Your Information
+
 We use the information we collect to:
-*   Operate and maintain the App.
-*   Manage your "Credits" balance and streak progress.
-*   Improve the educational content based on user performance (e.g., identifying difficult questions).
-*   Serve personalized advertisements (via Google AdMob) to support the free operation of the App.
-*   Respond to your feedback and customer service requests.
 
-## 4. Disclosure of Your Information
-We may share information we have collected about you in certain situations:
+- Operate, maintain, and improve the App's functionality and educational content
+- Track and manage your virtual credits, streaks, and achievement progress
+- Analyze quiz performance to optimize question difficulty and identify popular content (via anonymous analytics)
+- Serve personalized or non-personalized advertisements through Google AdMob to support the free operation of the App
+- Deliver rewarded video ads (for hints and streak saves) on Android devices
+- Process and respond to your feedback and support requests
+- Verify creator identities for the Creator Suite feature (email verification only)
 
-*   **Third-Party Service Providers:** We share data with third parties that perform services for us, specifically:
-    *   **Google AdMob:** To deliver rewarded video ads. AdMob may use your device ID and location to show relevant ads.
-    *   **Google Firebase/Firestore:** To store game data, analyze user behavior (Analytics), and manage backend infrastructure.
-*   **Legal Requirements:** If required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+## 4. Third-Party Services
 
-## 5. Third-Party Advertisements
-We use third-party advertising companies (specifically Google AdMob) to serve ads when you visit the App. These companies may use information about your visits to this and other websites/apps in order to provide advertisements about goods and services of interest to you.
+We integrate the following third-party services that may collect information:
 
-*   You can learn more about how Google uses data here: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+### A. Google AdMob (Android Only)
 
-## 6. Your Data Protection Rights (GDPR - European Economic Area)
-If you are a resident of the EEA, you have certain data protection rights. Virender Singh aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
-*   **The right to access:** You have the right to request copies of your personal data.
-*   **The right to rectification:** You have the right to request that we correct any information you believe is inaccurate.
-*   **The right to erasure:** You have the right to request that we erase your personal data, under certain conditions.
+We use Google AdMob to serve rewarded video ads. AdMob may collect:
 
-## 7. CCPA Privacy Rights (Do Not Sell My Personal Information - California)
-Under the CCPA, among other rights, California consumers have the right to:
-*   Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
-*   Request that a business delete any personal data about the consumer that a business has collected.
-*   **Opt-out of the sale of personal data:** In the context of digital advertising, the use of Advertising IDs can be considered a "sale" of data. You may opt-out of personalized advertising through your device settings (e.g., "Delete advertising ID" or "Opt out of Ads Personalization" in Android settings).
+- Device ID and advertising identifier
+- Approximate location (based on IP address)
+- App usage data for ad personalization
+
+You can opt out of personalized advertising in your Android device settings. Ads are only shown on Android; web and desktop users receive auto-granted rewards with no ads displayed.
+
+**Google Ads Privacy:** [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
+
+### B. Google Firebase
+
+We use Firebase services for:
+
+- **Cloud Firestore:** Optional cloud storage for user progress sync, creator quiz submissions, and feedback storage
+- **Firebase Analytics:** Anonymous event tracking (quiz completions, screen views, feedback submissions) to improve content quality
+- **Firebase Remote Config:** Remote configuration for app settings such as quiz time limits, hint costs, and maintenance mode
+
+### C. Google User Messaging Platform (UMP)
+
+On Android, we use Google's UMP SDK to request GDPR consent for personalized advertising before initializing AdMob.
+
+### D. Google Apps Script
+
+Used as a backend service for:
+
+- Sending and verifying email OTPs for creator identity verification
+- Processing creator quiz submissions
+
+### E. MyMemory Translation API
+
+Used to automatically translate user-generated quiz content into the app's supported languages.
+
+### F. Text-to-Speech Services
+
+- **Android/iOS:** Native `flutter_tts` for reading questions aloud
+- **Web:** Web Speech API for browser-based text-to-speech
+
+## 5. Creator Suite & User-Generated Content
+
+The App includes a **Creator Suite** feature that allows content creators to submit custom quiz questions. This feature involves:
+
+- **Email Verification:** Your email address is collected solely for identity verification via a one-time password (OTP). Your email is stored locally on your device and is not shared with third parties.
+- **Social Media Verification:** Creators may verify ownership of YouTube channels or social media accounts by completing verification steps (e.g., posting a comment). This is used only to confirm creator identity.
+- **Quiz Submissions:** Creator-submitted quiz content is stored in Firebase Firestore and made available to other users through the Creator Directory.
+- **Follower Count Verification:** We check publicly available follower counts to verify creator eligibility. We do not store or track your social media accounts beyond this verification step.
+
+## 6. User-Generated Content & Sharing
+
+- **Custom Quiz Builder:** You can create your own quiz questions from JSON files. This data is stored locally on your device only.
+- **Bookmarks & Notes:** Questions you bookmark and any notes you add are stored locally on your device only.
+- **Compost Audit Reports:** Generated audit reports are stored locally and can be shared via your device's native share sheet.
+- **Social Share Cards:** When you choose to share quiz results or achievements, the App generates a shareable image card. Sharing is entirely voluntary and uses your device's native sharing capabilities.
+
+## 7. Advertising & Rewards
+
+- On Android, you can watch **rewarded video ads** to earn free hints or save your streak. Rewards are granted by Google AdMob's server-side verification.
+- On web and desktop platforms, rewards are auto-granted without requiring you to watch ads.
+- We do not control the content of third-party advertisements displayed through AdMob.
 
 ## 8. Children's Privacy
-The App is intended for a general audience aged 18 and older. We do not knowingly collect personally identifiable information from children under 13 (or 16 in certain jurisdictions). If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us.
 
-## 9. Security of Your Data
-We use administrative, technical, and physical security measures (provided largely by the Google Cloud infrastructure) to help protect your personal information. However, please be aware that no electronic transmission over the Internet is 100% secure.
+The App is designed as an educational eco-education tool suitable for all age groups. We adhere to child-safety regulations (COPPA) and do not knowingly collect personal data from children under the age of 13. If you are a parent or guardian and believe your child has provided us with personal data, please contact us immediately so we can delete it.
 
-## 10. Contact Us
-If you have questions about this Privacy Policy, please contact us:
+## 9. Data Protection Rights
 
-*   **Name:** Virender Singh
-*   **Email:** kitchenscrapsquiz@gmail.com
-*   **Address:** Delhi, India
+### A. GDPR Rights (European Economic Area)
+
+If you are a resident of the EEA, you have the right to:
+
+- **Access** your personal data
+- **Rectify** inaccurate personal data
+- **Erase** your personal data
+- **Object** to processing of your personal data
+- **Data portability** — request a copy of your data in a structured format
+
+### B. CCPA Rights (California)
+
+If you are a California resident, you have the right to:
+
+- **Know** what personal information is collected about you
+- **Delete** your personal information
+- **Opt out** of the sale of personal information (advertising identifiers used for ad personalization may constitute a "sale" under CCPA)
+- **Non-discrimination** — we will not discriminate against you for exercising your rights
+
+To exercise any of these rights, contact us at kitchenscrapsquiz@gmail.com.
+
+## 10. Data Security
+
+We implement industry-standard security measures including:
+
+- HTTPS-only communication (cleartext traffic disabled)
+- Firebase security rules for Firestore access control
+- Local encryption of sensitive data where supported by the device
+
+However, no method of electronic transmission or storage is 100% secure, and we cannot guarantee absolute security.
+
+## 11. Data Retention
+
+- **Local data:** Retained on your device until you choose to reset progress or uninstall the App.
+- **Cloud data:** Retained in Firebase Firestore until you request deletion or reset your progress.
+- **Feedback submissions:** Retained in Firestore for customer support purposes.
+- **Creator submissions:** Retained in the Creator Directory until a creator requests removal.
+
+## 12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. If we make material changes, we will update the "Last Updated" date at the top of this page. Continued use of the App after changes constitutes acceptance of the revised policy.
+
+## 13. Contact Us
+
+If you have questions about this Privacy Policy or wish to exercise your data protection rights, please contact us:
+
+- **Name:** Virender Singh
+- **Email:** kitchenscrapsquiz@gmail.com
+- **Address:** Delhi, India
