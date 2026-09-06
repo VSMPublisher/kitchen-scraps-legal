@@ -1,11 +1,29 @@
 # Terms of Service
 
-[TOC]
-
----
-
 **Effective Date:** September 6, 2026  
 **Last Updated:** September 6, 2026
+
+## Table of Contents
+- [1. Agreement to Terms](#1-agreement-to-terms)
+- [2. Description of the App](#2-description-of-the-app)
+- [3. Intellectual Property Rights](#3-intellectual-property-rights)
+- [4. User Representations](#4-user-representations)
+- [5. Educational Content Disclaimer](#5-educational-content-disclaimer)
+- [6. Virtual Currency & In-App Features](#6-virtual-currency--in-app-features)
+- [7. Creator Suite & User-Generated Content](#7-creator-suite--user-generated-content)
+- [8. Third-Party Content & Advertisements](#8-third-party-content--advertisements)
+- [9. Platform Availability](#9-platform-availability)
+- [10. Prohibited Activities](#10-prohibited-activities)
+- [11. Limitation of Liability](#11-limitation-of-liability)
+- [12. Indemnification](#12-indemnification)
+- [13. Governing Law](#13-governing-law)
+- [14. Dispute Resolution](#14-dispute-resolution)
+- [15. Termination](#15-termination)
+- [16. Changes to These Terms](#16-changes-to-these-terms)
+- [17. Severability](#17-severability)
+- [18. Entire Agreement](#18-entire-agreement)
+- [19. Contact Us](#19-contact-us)
+
 
 ## 1. Agreement to Terms
 
