@@ -6,7 +6,7 @@
 ## Table of Contents
 - [1. Introduction](#1-introduction)
 - [2. Information We Collect](#2-information-we-collect)
-- [3. How We Use Information](#3-how-we-use-information)
+- [3. How We Use Your Information](#3-how-we-use-your-information)
 - [4. Third-Party Services](#4-third-party-services)
 - [5. Creator Suite & User-Generated Content](#5-creator-suite--user-generated-content)
 - [6. User-Generated Content & Sharing](#6-user-generated-content--sharing)
